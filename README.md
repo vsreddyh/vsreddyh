@@ -80,6 +80,6 @@ I'm a passionate learning developer with experience in MERN,React Native,C,C++,J
 ## Get in Touch 📬
 
 <!--- **[Personal Website / Blog]**(your_website_or_blog_link)-->
-- **[LinkedIn]**(https://www.linkedin.com/in/vsreddyh/)
-- **[Twitter]**(https://x.com/vsreddyh)
+- [LinkedIn](https://www.linkedin.com/in/vsreddyh/)
+- [Twitter](https://x.com/vsreddyh)
 >
