@@ -4,7 +4,7 @@
 
 I'm a passionate learning developer with experience in MERN,React Native,C,C++,Java,Python. I love learning new skills, and creating projects.
 
-- 🌱 Currently learning: **Bash**
+- 🌱 Currently learning: **React Native and Auth0**
 - 🔭 Working on: **Saanjh Sahayak(mysaanjh)**
 - 🌍 Languages: **C,C++,Java,Python,JavaScript,Lua(beginner),Bash(beginner)**
 - 📫 How to reach me: **shouryanreddyh@gmail.com**
