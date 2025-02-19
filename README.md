@@ -2,7 +2,8 @@
 
 ## About Me 🚀
 
-I'm a passionate learning developer with experience in MERN,React Native,C,C++,Java,Python. I love learning new skills, and creating projects.
+I'm a passionate learning developer with experience in MERN,React Native,C,C++,Java,Python.
+I love learning new skills, and creating projects.
 
 - 🌱 Currently learning: **React Native and Auth0**
 - 🔭 Working on: **Saanjh Sahayak(mysaanjh)**
