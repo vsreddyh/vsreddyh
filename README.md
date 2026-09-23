@@ -1,13 +1,14 @@
-# Hi there, I'm Vishnu(vsreddyh)! 👋
+# Hi there, I'm Vishnu (vsreddyh)! 👋
 
 ## About Me 🚀
 
-I'm a passionate learning developer with experience in MERN,React Native,C,C++,Java,Python.
-I love learning new skills, and creating projects.
+Software Engineer @ 5th Bridge Data Technologies. I build full-stack products
+and personal AI systems that survive production — event-driven backends,
+cost-aware infrastructure, and agentic automation.
 
-- 🌱 Currently learning: **React Native and Auth0**
-- 🔭 Working on: **Saanjh Sahayak(mysaanjh)**
-- 🌍 Languages: **C,C++,Java,Python,JavaScript,Lua(beginner),Bash(beginner)**
+- 🔭 Working on: **Agento** (personal AI stack: Hermes gateway + Android app)
+- 🌱 Exploring: **agentic AI, Go microservices, offline-first mobile**
+- 🌍 Languages: **Python, TypeScript/JavaScript, Go, Java, C#, SQL, Bash**
 - 📫 How to reach me: **shouryanreddyh@gmail.com**
 - ⚡ Fun fact: **I use Neovim btw**
 
@@ -62,21 +63,24 @@ I love learning new skills, and creating projects.
 ![DUckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
 ![FireFox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-<!--
 ## Featured Projects 💻
+
+### [Agento](https://github.com/vsreddyh/Agento)
+
+Personal AI stack: one multiplexed Hermes gateway serving three profiles,
+driven from a custom Kotlin/Jetpack Compose Android app — Go MCP servers,
+Health Connect sync, nightly retention, one Podman Compose file.
 
 ### [Schedio](https://github.com/vsreddyh/schedio)
 
-![image](https://github.com/user-attachments/assets/a30d9794-b31a-449b-bf58-2c4e9fe99f9f)
+Project-sharing platform connecting students, colleges, and recruiters —
+JWT/session auth, GridFS uploads with a file-tree viewer, Gemini code
+explanations, plagiarism checks, Chart.js analytics. Live at
+[schedio-coral.vercel.app](https://schedio-coral.vercel.app).
 
+### [More →](https://vsreddyh.github.io/portfolio-resume/)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).-->
+Case studies, live demos, and the full archive on my portfolio.
 
 ## Get in Touch 📬
 
